@@ -18,5 +18,5 @@ _____
 * JDK 21.0.9
 * Tomcat 10
 * SpringBoot
-* Database : MySQL
+* Database : MySQL8
 _____
