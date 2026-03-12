@@ -17,7 +17,6 @@ _____
 * Java 21 <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png" width="50" />
 
 * JDK 21.0.9
-
 * Tomcat 10 <img src="https://w7.pngwing.com/pngs/264/942/png-transparent-apache-tomcat-apache-http-server-vulnerability-computer-software-java-servlet-others-cat-like-mammal-carnivoran-text-thumbnail.png" width="30" />
 
 * SpringBoot 4 <img src="https://cdn.inflearn.com/public/files/blogs/1a0fbdae-5d2d-4ef4-a5fc-49a2980d27cf/spring.png" width="50" />
