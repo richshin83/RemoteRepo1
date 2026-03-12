@@ -14,10 +14,9 @@ _____
 * 팀원 한기술 : 카페 및 쇼핑몰 구현
 
 ## 4. 개발환경
-* Java 21
+* Java 21 <img src="https://images.icon-icons.com/2699/PNG/512/java_logo_icon_168609.png" width="50" />
 * JDK 21.0.9
 * Tomcat 10
-* SpringBoot 4
-* SpringFrameworkd 6
+* SpringBoot
 * Database : MySQL8
 _____
