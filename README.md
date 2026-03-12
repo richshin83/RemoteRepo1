@@ -17,6 +17,7 @@ _____
 * Java 21
 * JDK 21.0.9
 * Tomcat 10
-* SpringBoot
+* SpringBoot 4
+* SpringFrameworkd 6
 * Database : MySQL8
 _____
